@@ -1,7 +1,7 @@
 <h2 align='center'> 👋 Hello!</h2>
 
 <p>
-My name is Lash. I'm currently a Master's student at Columbia University in the Quantitative Methods in the Social Sciences program. Prior, I have worked at Google via Adecco where I worked in UX research.
+My name is Lash.
 </p>
 
 <p>
